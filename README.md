@@ -10,8 +10,8 @@ I used the jetson orin nano, VS code, train.py, and resnet to train my model. It
 
 ## Running this project
 
-1. go to open images and search "traffic sign"
-2. download it into VS code
+1. go to open images and search "traffic sign" and "stop sign"
+2. download both datasets into VS code
 3. train it using train.py
 4. test it using these commands:
 for completed videos:
