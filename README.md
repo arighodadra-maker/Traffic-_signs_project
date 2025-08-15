@@ -1,6 +1,6 @@
 # Project Name
 
-My project is trained to detect traffic signs and stop signs in a photo, video, or live stream. 
+My model is trained to detect traffic signs and stop signs in a photo, video, or live stream. 
 
 ![VTjAzGN](https://github.com/user-attachments/assets/f04c6f8c-5bbd-47e3-8869-a5f2062fe391)
 
